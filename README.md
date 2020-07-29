@@ -1,1 +1,2 @@
-# basic uses for python lambda functions in jupyter-notebook:
+# learning python in jupyter-notebook:
+
