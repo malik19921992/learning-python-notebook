@@ -1,7 +1,7 @@
 # learning python in jupyter-notebook:
 
 * ## jupyter-notebook list:
-	* [Python lambda ](https://github.com/malik19921992/learning-python-notebook/blob/master/lambda_functions_01.ipynb) 
+	* [Python lambda ](https://github.com/malik19921992/learning-python-notebook/blob/master/01_lambda_functions.ipynb) 
 
 * ## list of recourses:
 	* ### python basics:
