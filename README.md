@@ -12,6 +12,8 @@
 
 	* ### SQLite3:
 	
+	* ### math with python	
+
 	* ### web Dev
 
 	* ### Image processing , PIL/pillow:
