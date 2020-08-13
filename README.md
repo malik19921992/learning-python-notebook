@@ -12,6 +12,8 @@
 
 	* ### SQLite3:
 	
+	* ### web Dev
+
 	* ### Image processing , PIL/pillow:
 	
 	* ### Data structures:
@@ -20,7 +22,7 @@
 	
 	* ### Data analysis libs:
 
-	* ### GUI Tkinteri:
+	* ### GUI Tkinter:
 
 	* ### computer vision and opencv
 
